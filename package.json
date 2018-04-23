@@ -1,0 +1,16 @@
+{
+  "author": "frrist",
+  "bugs": {
+    "url": "https://github.com/frrist/testify"
+  },
+  "gx": {
+    "dvcsimport": "github.com/frrist/testify"
+  },
+  "gxVersion": "0.12.1",
+  "language": "go",
+  "license": "",
+  "name": "testify",
+  "releaseCmd": "git commit -a -m \"gx publish $VERSION\"",
+  "version": "0.0.0"
+}
+
